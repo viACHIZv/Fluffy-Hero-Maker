@@ -29,6 +29,18 @@ CREATE_CLASS_TABLE_REQUEST = '''CREATE TABLE IF NOT EXISTS dnd5_classes
 # 13: saving_throw_proficiencies
 # 14: added_equipment
 # 15: equipment_choices
+# 16: spell_class_list
+# 17: cantrips known
+# 18: lvl 1 spells known
+# 19: lvl 2 spells known
+# 20: lvl 3 spells known
+# 21: lvl 4 spells known
+# 22: lvl 5 spells known
+# 23: lvl 6 spells known
+# 24: lvl 7 spells known
+# 25: lvl 8 spells known
+# 26: lvl 9 spells known
+
 INSERT_CLASS_INTO_REQUEST = '''INSERT INTO dnd5_classes(name, hit_dice, weapon_proficiencies_to_add, 
                                 class_feature_names, class_feature_descriptions, armor_proficiencies, 
                                 skill_proficiency_choices_number, skill_proficiency_choices_list, tool_proficiencies,

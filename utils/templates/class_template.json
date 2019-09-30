@@ -26,5 +26,18 @@
   ],
   "armor_proficiencies_to_add": [],
   "tool_proficiencies_to_add": [],
-  "saving_throws_proficiencies": []
+  "saving_throws_proficiencies": [],
+  "added_equipment": [],
+  "equipment_choice": "",
+  "spell_class_list": [],
+  "cantrips_known": 0,
+  "spells_lvl_1_number": 0,
+  "spells_lvl_2_number": 0,
+  "spells_lvl_3_number": 0,
+  "spells_lvl_4_number": 0,
+  "spells_lvl_5_number": 0,
+  "spells_lvl_6_number": 0,
+  "spells_lvl_7_number": 0,
+  "spells_lvl_8_number": 0,
+  "spells_lvl_9_number": 0
 }

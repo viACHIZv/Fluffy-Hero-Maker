@@ -34,10 +34,14 @@ class DnD5Class:
         self.level_four_slots = 0
         self.level_five_slots = 0
         self.level_six_slots = 0
+        self.level_seven_slots = 0
+        self.level_eight_slots = 0
+        self.level_nine_slots = 0
         self.class_features = []
         self.saving_throws = []
         self.added_equipment = []
         self.equipment_choice = []
+        self.class_spell_lists = []
 
     def choose_feature(self, feature_name, choice):
         feature = self.find_choice_in_features(feature_name, choice)
